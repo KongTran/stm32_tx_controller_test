@@ -340,7 +340,7 @@
               <MiscControls></MiscControls>
               <Define>USE_HAL_DRIVER,STM32F103xB</Define>
               <Undefine></Undefine>
-              <IncludePath>../Core/Inc;../Drivers/STM32F1xx_HAL_Driver/Inc;../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy;../Drivers/CMSIS/Device/ST/STM32F1xx/Include;../Drivers/CMSIS/Include;..\..\..\lib\stm32_hal_nrf24_library-main</IncludePath>
+              <IncludePath>../Core/Inc;../Drivers/STM32F1xx_HAL_Driver/Inc;../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy;../Drivers/CMSIS/Device/ST/STM32F1xx/Include;../Drivers/CMSIS/Include;..\lid\stm32_hal_nrf24_library-main</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
@@ -512,22 +512,22 @@
             <File>
               <FileName>NRF24.c</FileName>
               <FileType>1</FileType>
-              <FilePath>..\..\..\lib\stm32_hal_nrf24_library-main\NRF24.c</FilePath>
+              <FilePath>..\lib\stm32_hal_nrf24_library-main\NRF24.c</FilePath>
             </File>
             <File>
               <FileName>NRF24.h</FileName>
               <FileType>5</FileType>
-              <FilePath>..\..\..\lib\stm32_hal_nrf24_library-main\NRF24.h</FilePath>
+              <FilePath>..\lib\stm32_hal_nrf24_library-main\NRF24.h</FilePath>
             </File>
             <File>
               <FileName>NRF24_conf.h</FileName>
               <FileType>5</FileType>
-              <FilePath>..\..\..\lib\stm32_hal_nrf24_library-main\NRF24_conf.h</FilePath>
+              <FilePath>..\lib\stm32_hal_nrf24_library-main\NRF24_conf.h</FilePath>
             </File>
             <File>
               <FileName>NRF24_reg_addresses.h</FileName>
               <FileType>5</FileType>
-              <FilePath>..\..\..\lib\stm32_hal_nrf24_library-main\NRF24_reg_addresses.h</FilePath>
+              <FilePath>..\lib\stm32_hal_nrf24_library-main\NRF24_reg_addresses.h</FilePath>
             </File>
           </Files>
         </Group>

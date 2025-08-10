@@ -478,7 +478,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>..\..\..\lib\stm32_hal_nrf24_library-main\NRF24.c</PathWithFileName>
+      <PathWithFileName>..\lib\stm32_hal_nrf24_library-main\NRF24.c</PathWithFileName>
       <FilenameWithoutPath>NRF24.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -490,7 +490,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>..\..\..\lib\stm32_hal_nrf24_library-main\NRF24.h</PathWithFileName>
+      <PathWithFileName>..\lib\stm32_hal_nrf24_library-main\NRF24.h</PathWithFileName>
       <FilenameWithoutPath>NRF24.h</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -502,7 +502,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>..\..\..\lib\stm32_hal_nrf24_library-main\NRF24_conf.h</PathWithFileName>
+      <PathWithFileName>..\lib\stm32_hal_nrf24_library-main\NRF24_conf.h</PathWithFileName>
       <FilenameWithoutPath>NRF24_conf.h</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -514,7 +514,7 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>..\..\..\lib\stm32_hal_nrf24_library-main\NRF24_reg_addresses.h</PathWithFileName>
+      <PathWithFileName>..\lib\stm32_hal_nrf24_library-main\NRF24_reg_addresses.h</PathWithFileName>
       <FilenameWithoutPath>NRF24_reg_addresses.h</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
